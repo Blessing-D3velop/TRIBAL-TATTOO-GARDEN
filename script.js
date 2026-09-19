@@ -107,22 +107,20 @@ function initEmbers() {
    on any item to match real photos once they're in place.
 ---------------------------------------------- */
 const GALLERY_ITEMS = [
-  { image: "images/g1.jpg",  category: "Custom Tattoos", alt: "Custom tattoo design" },
-  { image: "images/g2.jpg",  category: "Black & Grey",   alt: "Black and grey tattoo" },
-  { image: "images/g3.jpg",  category: "Sleeves",        alt: "Sleeve tattoo" },
-  { image: "images/g4.jpg",  category: "Colour Tattoos", alt: "Colour tattoo" },
-  { image: "images/g5.jpg",  category: "Small Tattoos",  alt: "Small tattoo" },
-  { image: "images/g6.jpg",  category: "Piercings",      alt: "Piercing work" },
-  { image: "images/g7.jpg",  category: "Custom Tattoos", alt: "Custom tattoo design" },
-  { image: "images/g8.jpg",  category: "Black & Grey",   alt: "Black and grey tattoo" },
-  { image: "images/g9.jpg",  category: "Sleeves",        alt: "Sleeve tattoo" },
-  { image: "images/g10.jpg", category: "Colour Tattoos", alt: "Colour tattoo" },
-  { image: "images/g11.jpg", category: "Small Tattoos",  alt: "Small tattoo" },
-  { image: "images/g12.jpg", category: "Piercings",      alt: "Piercing work" },
-  { image: "images/g13.jpg", category: "Custom Tattoos", alt: "Custom tattoo design" },
-  { image: "images/g14.jpg", category: "Black & Grey",   alt: "Black and grey tattoo" },
-  { image: "images/g15.jpg", category: "Sleeves",        alt: "Sleeve tattoo" },
-  { image: "images/g16.jpg", category: "Colour Tattoos", alt: "Colour tattoo" },
+  { image: "images/g1.jpeg",  category: "Custom Tattoos", alt: "Custom tattoo design" },
+  { image: "images/g2.jpeg",  category: "Black & Grey",   alt: "Black and grey tattoo" },
+  { image: "images/g3.jpeg",  category: "Sleeves",        alt: "Sleeve tattoo" },
+  { image: "images/g4.jpeg",  category: "Colour Tattoos", alt: "Colour tattoo" },
+  { image: "images/g5.jpeg",  category: "Small Tattoos",  alt: "Small tattoo" },
+  { image: "images/g7.jpeg",  category: "Custom Tattoos", alt: "Custom tattoo design" },
+  { image: "images/g8.jpeg",  category: "Black & Grey",   alt: "Black and grey tattoo" },
+  { image: "images/g9.jpeg",  category: "Sleeves",        alt: "Sleeve tattoo" },
+  { image: "images/g10.jpeg", category: "Colour Tattoos", alt: "Colour tattoo" },
+  { image: "images/g11.jpeg", category: "Small Tattoos",  alt: "Small tattoo" },
+  { image: "images/g13.jpeg", category: "Custom Tattoos", alt: "Custom tattoo design" },
+  { image: "images/g14.jpeg", category: "Black & Grey",   alt: "Black and grey tattoo" },
+  { image: "images/g15.jpeg", category: "Sleeves",        alt: "Sleeve tattoo" },
+  { image: "images/g16.jpeg", category: "Colour Tattoos", alt: "Colour tattoo" },
 ];
 
 const GALLERY_CATEGORIES = ["All", "Small Tattoos", "Custom Tattoos", "Sleeves", "Black & Grey", "Colour Tattoos", "Piercings"];
